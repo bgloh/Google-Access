@@ -2,8 +2,7 @@
 Google access
 
 ```html
- <!DOCTYPE html>
-<html lang="en">
+
 <head>
   <title>Google sheet QUERRY</title>
   <meta charset="utf-8">
@@ -117,8 +116,8 @@ pieChart(tableHead);
     
 </script>
 </body>
-</html>
-
 '''
+
+
 
 
